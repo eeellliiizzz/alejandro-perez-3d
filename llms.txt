@@ -4,15 +4,15 @@
 
 ## Proyectos
 
-- [Sunglass Hut Summer Event](https://eeellliiizzz.github.io/alejandro-perez-3d/proyectos/sunglass-hut/): Evento · Equipo Singular · Barcelona. Celebrado en Barcelona este verano, el Sunglass Hut Summer Event reunió a influencers y creadores de contenido para descubrir las últimas colecciones de gafas de la marca.
-- [Naturgy](https://eeellliiizzz.github.io/alejandro-perez-3d/proyectos/naturgy/): Evento corporativo · Equipo Singular · Valencia. Celebrado en Valencia a mediados de junio, este evento reconoció el trabajo de organizaciones e iniciativas que contribuyeron de forma significativa a la región tras la DANA.
-- [Patrón Tequila](https://eeellliiizzz.github.io/alejandro-perez-3d/proyectos/patron-tequila/): Visibilidad de marca · Mälmo BTL · Bacardí · Madrid, España. Diseñador y renderista de un conjunto de intervenciones de marca para clubs nocturnos con el objetivo de elevar la percepción de Patrón en espacios donde la experiencia manda.
-- [Grey Goose](https://eeellliiizzz.github.io/alejandro-perez-3d/proyectos/grey-goose/): Visibilidad de marca · Mälmo BTL · Bacardí · Madrid, España. Serie de intervenciones de marca en clubs nocturnos pensadas para llevar la estética limpia y sofisticada de Grey Goose a entornos donde cada detalle cuenta.
-- [Eventos Logiplay 2025 y Rioja 100 aniversario](https://eeellliiizzz.github.io/alejandro-perez-3d/proyectos/logiplay-rioja/): Eventos · Equipo Singular · Madrid, España. Ambos proyectos tuvieron lugar en las salas del Cine Callao, un espacio con carácter propio que supuso el punto de partida para dos atmósferas completamente diferentes.
-- [Stands](https://eeellliiizzz.github.io/alejandro-perez-3d/proyectos/stands/): Eventos · Varios · Madrid. En una feria, el stand compite con cientos de estímulos a la vez. Esta serie reúne proyectos con un mismo punto de partida: la identidad de cada marca.
-- [Eventos al aire libre](https://eeellliiizzz.github.io/alejandro-perez-3d/proyectos/eventos-al-aire-libre/): Eventos · Varios · Madrid. Cada propuesta trabaja la identidad de marca desde un enfoque naturalista: materiales honestos, geometrías limpias y una iluminación que acompaña el ritmo del día.
-- [Eventos varios](https://eeellliiizzz.github.io/alejandro-perez-3d/proyectos/eventos-varios/): Eventos · Varios · Madrid, España. Esta selección reúne propuestas para eventos, activaciones de marca y experiencias presenciales de distinta escala. Cada proyecto parte de una identidad y un objetivo diferentes, traducidos en espacios, recorridos y elementos visuales que construyen una experiencia coherente.
-- [The Ordinary](https://eeellliiizzz.github.io/alejandro-perez-3d/proyectos/the-ordinary/): Activación de marca · Equipo Singular. Una de las primeras grandes activaciones de marca de The Ordinary en España, este evento presentó un nuevo producto y creó un primer punto de conexión con influencers y creadores de contenido españoles.
+- [Sunglass Hut Summer Event](https://aleperez3d.github.io/proyectos/sunglass-hut/): Evento · Equipo Singular · Barcelona. Celebrado en Barcelona este verano, el Sunglass Hut Summer Event reunió a influencers y creadores de contenido para descubrir las últimas colecciones de gafas de la marca.
+- [Naturgy](https://aleperez3d.github.io/proyectos/naturgy/): Evento corporativo · Equipo Singular · Valencia. Celebrado en Valencia a mediados de junio, este evento reconoció el trabajo de organizaciones e iniciativas que contribuyeron de forma significativa a la región tras la DANA.
+- [Patrón Tequila](https://aleperez3d.github.io/proyectos/patron-tequila/): Visibilidad de marca · Mälmo BTL · Bacardí · Madrid, España. Diseñador y renderista de un conjunto de intervenciones de marca para clubs nocturnos con el objetivo de elevar la percepción de Patrón en espacios donde la experiencia manda.
+- [Grey Goose](https://aleperez3d.github.io/proyectos/grey-goose/): Visibilidad de marca · Mälmo BTL · Bacardí · Madrid, España. Serie de intervenciones de marca en clubs nocturnos pensadas para llevar la estética limpia y sofisticada de Grey Goose a entornos donde cada detalle cuenta.
+- [Eventos Logiplay 2025 y Rioja 100 aniversario](https://aleperez3d.github.io/proyectos/logiplay-rioja/): Eventos · Equipo Singular · Madrid, España. Ambos proyectos tuvieron lugar en las salas del Cine Callao, un espacio con carácter propio que supuso el punto de partida para dos atmósferas completamente diferentes.
+- [Stands](https://aleperez3d.github.io/proyectos/stands/): Eventos · Varios · Madrid. En una feria, el stand compite con cientos de estímulos a la vez. Esta serie reúne proyectos con un mismo punto de partida: la identidad de cada marca.
+- [Eventos al aire libre](https://aleperez3d.github.io/proyectos/eventos-al-aire-libre/): Eventos · Varios · Madrid. Cada propuesta trabaja la identidad de marca desde un enfoque naturalista: materiales honestos, geometrías limpias y una iluminación que acompaña el ritmo del día.
+- [Eventos varios](https://aleperez3d.github.io/proyectos/eventos-varios/): Eventos · Varios · Madrid, España. Esta selección reúne propuestas para eventos, activaciones de marca y experiencias presenciales de distinta escala. Cada proyecto parte de una identidad y un objetivo diferentes, traducidos en espacios, recorridos y elementos visuales que construyen una experiencia coherente.
+- [The Ordinary](https://aleperez3d.github.io/proyectos/the-ordinary/): Activación de marca · Equipo Singular. Una de las primeras grandes activaciones de marca de The Ordinary en España, este evento presentó un nuevo producto y creó un primer punto de conexión con influencers y creadores de contenido españoles.
 
 ## Marcas y agencias
 
@@ -25,6 +25,7 @@ Marcas y agencias con las que ha trabajado: Grey Goose, St-Germain, Patrón Tequ
 - Behance: https://www.behance.net/alejandroperez317
 - LinkedIn: https://www.linkedin.com/in/alejandroperez317/
 
-## English
+## Más
 
-- [English version](https://eeellliiizzz.github.io/alejandro-perez-3d/en/)
+- [Todos los textos de los proyectos](https://aleperez3d.github.io/llms-full.txt)
+- [English version](https://aleperez3d.github.io/en/)
