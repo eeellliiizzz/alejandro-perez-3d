@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eeellliiizzz.github.io/alejandro-perez-3d/sitemap.xml
